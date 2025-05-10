@@ -1,6 +1,6 @@
-# Chrome Dino Game 
+# Chrome Dino? Game 
 
-A replica of the Chrome Dino game built with Pygame.
+My version of the Chrome Dino(Square) game built with Pygame.
 
 ## Setup
 
