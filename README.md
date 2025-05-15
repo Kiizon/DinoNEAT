@@ -16,5 +16,6 @@ python dino_game.py
 
 ## Controls
 - Press SPACE to make the dinosaur jump
+- Press R to restart game after being eliminated
 - Close the window to end the game
 
